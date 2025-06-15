@@ -26,20 +26,20 @@ Prerequisites
 
 AWS Account
 
-![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20210705.png
-)
-![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20210925.png
-)
+SSH Client (MobaXterm/Putty)
+
+AWS CLI configured
+
+Terraform installed
+
+
 ![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20211238.png
 )
 ![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20211313.png
 )
 ![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20211347.png
 )
-
-
-SSH Client (MobaXterm/Putty)
-
-AWS CLI configured
-
-Terraform installed
+![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20210705.png
+)
+![](https://github.com/ksgirme/Super-Mario-Game-deployment-in-EKS-using-Terraform-and-Kubernetes/blob/master/Screenshot%202025-06-15%20210925.png
+)
